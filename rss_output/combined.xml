@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 24 Sep 2025 09:25:17 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 24 Sep 2025 10:24:11 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -1412,7 +1412,10 @@
 		（２）医療法等の一部を改正する法律案について（報告）
 
 
-－
+
+議事録
+
+
 
 資料
 
@@ -1432,7 +1435,10 @@
 		（２）医療法等の一部を改正する法律案について（報告）
 
 
-－
+
+議事録
+
+
 
 資料
 
@@ -1452,7 +1458,10 @@
 		（２）医療法等の一部を改正する法律案について（報告）
 
 
-－
+
+議事録
+
+
 
 資料
 
