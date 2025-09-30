@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 30 Sep 2025 10:25:28 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 30 Sep 2025 11:19:45 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -23,7 +23,7 @@
 －
 
 開催案内NEW
-9月30日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20251002</link><description>第199回
+9月30日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第199回
 
 
 2025年10月2日（令和7年10月2日）
@@ -69,7 +69,7 @@
 
 
 開催案内NEW
-9月24日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20250926</link><description>第198回
+9月24日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第198回
 
 
 2025年9月26日（令和7年9月26日）
@@ -122,7 +122,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20250918</link><description>第197回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第197回
 
 
 2025年9月18日（令和7年9月18日）
@@ -175,7 +175,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20250828</link><description>第196回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第196回
 
 
 2025年8月28日（令和7年8月28日）
@@ -232,7 +232,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20250619</link><description>第195回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第195回
 
 
 2025年6月19日（令和7年6月19日）
@@ -287,7 +287,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20250501</link><description>第194回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第194回
 
 
 2025年5月1日（令和7年5月1日）
@@ -344,7 +344,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20250403</link><description>第193回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第193回
 
 
 2025年4月3日（令和7年4月3日）
@@ -409,7 +409,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20250123</link><description>第192回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第192回
 
 
 2025年1月23日（令和7年1月23日）
@@ -465,7 +465,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html#20241226</link><description>第191回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第191回
 
 
 2024年12月26日（令和6年12月26日）
@@ -530,7 +530,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250929</link><description>第125回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第125回
 
 
 2025年9月29日（令和7年9月29日）
@@ -591,7 +591,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250908</link><description>第124回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第124回
 
 
 2025年9月8日（令和7年9月8日）
@@ -660,7 +660,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250728</link><description>第123回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第123回
 
 
 2025年7月28日（令和7年7月28日）
@@ -728,7 +728,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250630</link><description>第122回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第122回
 
 
 2025年6月30日（令和7年6月30日）
@@ -792,7 +792,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250602</link><description>第121回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第121回
 
 
 2025年6月2日（令和7年6月2日）
@@ -851,7 +851,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250519</link><description>第120回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第120回
 
 
 2025年5月19日（令和7年5月19日）
@@ -910,7 +910,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250421</link><description>第119回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第119回
 
 
 2025年4月21日（令和7年4月21日）
@@ -973,7 +973,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250317</link><description>第118回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第118回
 
 
 2025年3月17日（令和7年3月17日）
@@ -1033,7 +1033,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html#20250220</link><description>第117回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第117回
 
 
 2025年2月20日（令和7年2月20日）
@@ -1094,7 +1094,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20250905</link><description>第247回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第247回
 
 
 2025年9月5日（令和7年9月5日）
@@ -1139,7 +1139,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20250725</link><description>第31回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第31回
 
 
 2025年7月25日（令和7年7月25日）
@@ -1183,7 +1183,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20250414</link><description>第246回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第246回
 
 
 2025年4月14日（令和7年4月14日）
@@ -1226,7 +1226,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20250331</link><description>第30回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第30回
 
 
 2025年3月31日（令和7年3月31日）
@@ -1274,7 +1274,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20250324</link><description>第245回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第245回
 
 
 2025年3月24日（令和7年3月24日）
@@ -1326,7 +1326,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20250318</link><description>第41回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第41回
 
 
 2025年3月18日（令和7年3月18日）
@@ -1375,7 +1375,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20250213</link><description>第244回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第244回
 
 
 2025年2月13日（令和7年2月13日）
@@ -1425,7 +1425,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20250130</link><description>第40回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第40回
 
 
 2025年1月30日（令和7年1月30日）
@@ -1474,7 +1474,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html#20241223</link><description>第243回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第243回
 
 
 2024年12月23日（令和6年12月23日）
@@ -1527,7 +1527,7 @@
 －
 －
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20251003</link><description>第119回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第119回
 
 
 2025年10月3日（令和7年10月3日）
@@ -1558,7 +1558,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20250919</link><description>第118回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第118回
 
 
 2025年9月19日（令和7年9月19日）
@@ -1597,7 +1597,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20250904</link><description>第117回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第117回
 
 
 2025年9月4日（令和7年9月4日）
@@ -1639,7 +1639,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20250704</link><description>第116回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第116回
 
 
 2025年7月4日（令和7年7月4日）
@@ -1683,7 +1683,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20250226</link><description>第115回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第115回
 
 
 2025年2月26日（令和7年2月26日）
@@ -1717,7 +1717,7 @@
 資料
 
 
-－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20241225</link><description>－
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>－
 
 
 2024年12月25日（令和6年12月25日）
@@ -1752,7 +1752,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20241218</link><description>第114回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第114回
 
 
 2024年12月18日（令和6年12月18日）
@@ -1799,7 +1799,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20241128</link><description>第113回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第113回
 
 
 2024年11月28日（令和6年11月28日）
@@ -1847,7 +1847,7 @@
 
 
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html#20241115</link><description>第112回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第112回
 
 
 2024年11月15日（令和6年11月15日）
