@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 30 Sep 2025 12:50:44 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 30 Sep 2025 13:32:27 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,7 +9,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（医療保険部会）】第199回
+開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（医療保険部会）】【2025-10-02】第199回
 
 
 2025年10月2日（令和7年10月2日）
@@ -23,7 +23,7 @@
 －
 
 開催案内NEW
-9月30日 (2025-10-02)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第199回
+9月30日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第199回
 
 
 2025年10月2日（令和7年10月2日）
@@ -37,7 +37,7 @@
 －
 
 開催案内NEW
-9月30日</description><guid isPermaLink="false">urn:newsitem:a5974d98d95c2cb6af2c8d87da6372839d8e3b27</guid><pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第198回
+9月30日</description><guid isPermaLink="false">urn:newsitem:a5974d98d95c2cb6af2c8d87da6372839d8e3b27</guid><pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2025-09-26】第198回
 
 
 2025年9月26日（令和7年9月26日）
@@ -55,7 +55,7 @@
 
 
 開催案内NEW
-9月24日 (2025-09-26)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第198回
+9月24日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第198回
 
 
 2025年9月26日（令和7年9月26日）
@@ -73,7 +73,7 @@
 
 
 開催案内NEW
-9月24日</description><guid isPermaLink="false">urn:newsitem:beaf387bedc12e340e87731daab03f32fadff349</guid><pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第197回
+9月24日</description><guid isPermaLink="false">urn:newsitem:beaf387bedc12e340e87731daab03f32fadff349</guid><pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2025-09-18】第197回
 
 
 2025年9月18日（令和7年9月18日）
@@ -90,7 +90,7 @@
 
 
 
-開催案内 (2025-09-18)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第197回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第197回
 
 
 2025年9月18日（令和7年9月18日）
@@ -107,7 +107,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:efe084b9f76b32ff560f84204aad13c30d6a6259</guid><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第196回
+開催案内</description><guid isPermaLink="false">urn:newsitem:efe084b9f76b32ff560f84204aad13c30d6a6259</guid><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2025-08-28】第196回
 
 
 2025年8月28日（令和7年8月28日）
@@ -126,7 +126,7 @@
 
 
 
-開催案内 (2025-08-28)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第196回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第196回
 
 
 2025年8月28日（令和7年8月28日）
@@ -145,7 +145,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:4a1b1bbeee59818177cac326151eaaefce74fa4d</guid><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第195回
+開催案内</description><guid isPermaLink="false">urn:newsitem:4a1b1bbeee59818177cac326151eaaefce74fa4d</guid><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2025-06-19】第195回
 
 
 2025年6月19日（令和7年6月19日）
@@ -164,7 +164,7 @@
 
 
 
-開催案内 (2025-06-19)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第195回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第195回
 
 
 2025年6月19日（令和7年6月19日）
@@ -183,7 +183,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:a8923232b50558b597c2583c2654d6a4fbc8a312</guid><pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第194回
+開催案内</description><guid isPermaLink="false">urn:newsitem:a8923232b50558b597c2583c2654d6a4fbc8a312</guid><pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2025-05-01】第194回
 
 
 2025年5月1日（令和7年5月1日）
@@ -200,7 +200,7 @@
 
 
 
-開催案内 (2025-05-01)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第194回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第194回
 
 
 2025年5月1日（令和7年5月1日）
@@ -217,7 +217,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:f1b410ade4c1f8dc862acbab3dcc5dc327b30616</guid><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第193回
+開催案内</description><guid isPermaLink="false">urn:newsitem:f1b410ade4c1f8dc862acbab3dcc5dc327b30616</guid><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2025-04-03】第193回
 
 
 2025年4月3日（令和7年4月3日）
@@ -240,7 +240,7 @@
 
 
 
-開催案内 (2025-04-03)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第193回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第193回
 
 
 2025年4月3日（令和7年4月3日）
@@ -263,7 +263,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:e939f25579ae37ac744477dd72aff50feee2a55e</guid><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第192回
+開催案内</description><guid isPermaLink="false">urn:newsitem:e939f25579ae37ac744477dd72aff50feee2a55e</guid><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2025-01-23】第192回
 
 
 2025年1月23日（令和7年1月23日）
@@ -282,7 +282,7 @@
 
 
 
-開催案内 (2025-01-23)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第192回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第192回
 
 
 2025年1月23日（令和7年1月23日）
@@ -301,7 +301,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:bf69c53d2f9d4a46d307288b075d5271f4f4a0c4</guid><pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第191回
+開催案内</description><guid isPermaLink="false">urn:newsitem:bf69c53d2f9d4a46d307288b075d5271f4f4a0c4</guid><pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2024-12-26】第191回
 
 
 2024年12月26日（令和6年12月26日）
@@ -319,7 +319,7 @@
 
 
 
-開催案内 (2024-12-26)</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第191回
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第191回
 
 
 2024年12月26日（令和6年12月26日）
@@ -347,7 +347,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護保険部会）】第125回
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護保険部会）】【2025-09-29】第125回
 
 
 2025年9月29日（令和7年9月29日）
@@ -366,7 +366,7 @@
 
 
 
-開催案内 (2025-09-29)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第125回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第125回
 
 
 2025年9月29日（令和7年9月29日）
@@ -385,7 +385,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:23b660f1e97e6b6fe96783de24bac615b8e4c002</guid><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】第124回
+開催案内</description><guid isPermaLink="false">urn:newsitem:23b660f1e97e6b6fe96783de24bac615b8e4c002</guid><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-09-08】第124回
 
 
 2025年9月8日（令和7年9月8日）
@@ -408,7 +408,7 @@
 
 
 
-開催案内 (2025-09-08)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第124回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第124回
 
 
 2025年9月8日（令和7年9月8日）
@@ -431,7 +431,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:6acc249bc8c79dae7b95375cec405dcc634b44f0</guid><pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】第123回
+開催案内</description><guid isPermaLink="false">urn:newsitem:6acc249bc8c79dae7b95375cec405dcc634b44f0</guid><pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-07-28】第123回
 
 
 2025年7月28日（令和7年7月28日）
@@ -454,7 +454,7 @@
 
 
 
-開催案内 (2025-07-28)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第123回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第123回
 
 
 2025年7月28日（令和7年7月28日）
@@ -477,7 +477,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:8c17e7fee58da0a348d761c23802c83c4ed58d18</guid><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】第122回
+開催案内</description><guid isPermaLink="false">urn:newsitem:8c17e7fee58da0a348d761c23802c83c4ed58d18</guid><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-06-30】第122回
 
 
 2025年6月30日（令和7年6月30日）
@@ -499,7 +499,7 @@
 
 
 
-開催案内 (2025-06-30)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第122回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第122回
 
 
 2025年6月30日（令和7年6月30日）
@@ -521,7 +521,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:4e260cd8cf290d687e8e7f18257b23e63d823382</guid><pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】第121回
+開催案内</description><guid isPermaLink="false">urn:newsitem:4e260cd8cf290d687e8e7f18257b23e63d823382</guid><pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-06-02】第121回
 
 
 2025年6月2日（令和7年6月2日）
@@ -541,7 +541,7 @@
 
 
 
-開催案内 (2025-06-02)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第121回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第121回
 
 
 2025年6月2日（令和7年6月2日）
@@ -561,7 +561,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:4c0e1ed99f623555dcacc39f86c8da08b2944573</guid><pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】第120回
+開催案内</description><guid isPermaLink="false">urn:newsitem:4c0e1ed99f623555dcacc39f86c8da08b2944573</guid><pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-05-19】第120回
 
 
 2025年5月19日（令和7年5月19日）
@@ -580,7 +580,7 @@
 
 
 
-開催案内 (2025-05-19)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第120回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第120回
 
 
 2025年5月19日（令和7年5月19日）
@@ -599,7 +599,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:e4c9b18c10ce4f58a6b11335f439d7e75d77b25e</guid><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】第119回
+開催案内</description><guid isPermaLink="false">urn:newsitem:e4c9b18c10ce4f58a6b11335f439d7e75d77b25e</guid><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-04-21】第119回
 
 
 2025年4月21日（令和7年4月21日）
@@ -620,7 +620,7 @@
 
 
 
-開催案内 (2025-04-21)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第119回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第119回
 
 
 2025年4月21日（令和7年4月21日）
@@ -641,7 +641,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:efd97398ff14f533fc38802b5133826a584d6187</guid><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】第118回
+開催案内</description><guid isPermaLink="false">urn:newsitem:efd97398ff14f533fc38802b5133826a584d6187</guid><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-03-17】第118回
 
 
 2025年3月17日（令和7年3月17日）
@@ -662,7 +662,7 @@
 
 
 
-開催案内 (2025-03-17)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第118回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第118回
 
 
 2025年3月17日（令和7年3月17日）
@@ -683,7 +683,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:7185bcb36da94313ebd3fe384d946e5c07f7fd7e</guid><pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】第117回
+開催案内</description><guid isPermaLink="false">urn:newsitem:7185bcb36da94313ebd3fe384d946e5c07f7fd7e</guid><pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-02-20】第117回
 
 
 2025年2月20日（令和7年2月20日）
@@ -701,7 +701,7 @@
 
 
 
-開催案内 (2025-02-20)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第117回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第117回
 
 
 2025年2月20日（令和7年2月20日）
@@ -729,7 +729,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】第247回
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-09-05】第247回
 
 
 2025年9月5日（令和7年9月5日）
@@ -744,7 +744,7 @@
 
 
 
-開催案内 (2025-09-05)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第247回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第247回
 
 
 2025年9月5日（令和7年9月5日）
@@ -759,7 +759,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:ee22c7afd184e6c9b8e2e2c2240033ad544dabc9</guid><pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】第31回
+開催案内</description><guid isPermaLink="false">urn:newsitem:ee22c7afd184e6c9b8e2e2c2240033ad544dabc9</guid><pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-07-25】第31回
 
 
 2025年7月25日（令和7年7月25日）
@@ -774,7 +774,7 @@
 
 
 
-開催案内 (2025-07-25)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第31回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第31回
 
 
 2025年7月25日（令和7年7月25日）
@@ -789,7 +789,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:aef031ade9ff6ad76a2d75f6b2e38e948b7deb72</guid><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】第246回
+開催案内</description><guid isPermaLink="false">urn:newsitem:aef031ade9ff6ad76a2d75f6b2e38e948b7deb72</guid><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-04-14】第246回
 
 
 2025年4月14日（令和7年4月14日）
@@ -803,7 +803,7 @@
 
 
 
-開催案内 (2025-04-14)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第246回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第246回
 
 
 2025年4月14日（令和7年4月14日）
@@ -817,7 +817,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:75d191d4cef72af9a6985c5d068ee0b82676200e</guid><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】第30回
+開催案内</description><guid isPermaLink="false">urn:newsitem:75d191d4cef72af9a6985c5d068ee0b82676200e</guid><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-03-31】第30回
 
 
 2025年3月31日（令和7年3月31日）
@@ -832,7 +832,7 @@
 
 
 
-開催案内 (2025-03-31)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第30回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第30回
 
 
 2025年3月31日（令和7年3月31日）
@@ -847,7 +847,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:9ca7298f73185ccc469e5a0b2610ebeb096bca6f</guid><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】第245回
+開催案内</description><guid isPermaLink="false">urn:newsitem:9ca7298f73185ccc469e5a0b2610ebeb096bca6f</guid><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-03-24】第245回
 
 
 2025年3月24日（令和7年3月24日）
@@ -865,7 +865,7 @@
 
 
 
-開催案内 (2025-03-24)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第245回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第245回
 
 
 2025年3月24日（令和7年3月24日）
@@ -883,7 +883,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:e03ed6436a08cc1f23876f67452cfc385baabc16</guid><pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】第41回
+開催案内</description><guid isPermaLink="false">urn:newsitem:e03ed6436a08cc1f23876f67452cfc385baabc16</guid><pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-03-18】第41回
 
 
 2025年3月18日（令和7年3月18日）
@@ -899,7 +899,7 @@
 
 
 
-開催案内 (2025-03-18)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第41回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第41回
 
 
 2025年3月18日（令和7年3月18日）
@@ -915,7 +915,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:ea643c9d482eea7c6206434a0260b4ffb0929a61</guid><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】第244回
+開催案内</description><guid isPermaLink="false">urn:newsitem:ea643c9d482eea7c6206434a0260b4ffb0929a61</guid><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-02-13】第244回
 
 
 2025年2月13日（令和7年2月13日）
@@ -932,7 +932,7 @@
 
 
 
-開催案内 (2025-02-13)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第244回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第244回
 
 
 2025年2月13日（令和7年2月13日）
@@ -949,7 +949,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:8e59bc32426608a1cef424be6ecfdf43420589a7</guid><pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】第40回
+開催案内</description><guid isPermaLink="false">urn:newsitem:8e59bc32426608a1cef424be6ecfdf43420589a7</guid><pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2025-01-30】第40回
 
 
 2025年1月30日（令和7年1月30日）
@@ -965,7 +965,7 @@
 
 
 
-開催案内 (2025-01-30)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第40回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第40回
 
 
 2025年1月30日（令和7年1月30日）
@@ -981,7 +981,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:d239ee211a6e6d971bc275a41d0fc12b936684b4</guid><pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】第243回
+開催案内</description><guid isPermaLink="false">urn:newsitem:d239ee211a6e6d971bc275a41d0fc12b936684b4</guid><pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2024-12-23】第243回
 
 
 2024年12月23日（令和6年12月23日）
@@ -998,7 +998,7 @@
 
 
 
-開催案内 (2024-12-23)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第243回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第243回
 
 
 2024年12月23日（令和6年12月23日）
@@ -1025,7 +1025,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会(医療部会)】第119回
+開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会(医療部会)】【2025-10-03】第119回
 
 
 2025年10月3日（令和7年10月3日）
@@ -1034,7 +1034,7 @@
 －
 －
 
-開催案内 (2025-10-03)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第119回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第119回
 
 
 2025年10月3日（令和7年10月3日）
@@ -1043,7 +1043,7 @@
 －
 －
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:c693cfad356c97511f49105fd72945c03afc432a</guid><pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第118回
+開催案内</description><guid isPermaLink="false">urn:newsitem:c693cfad356c97511f49105fd72945c03afc432a</guid><pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2025-09-19】第118回
 
 
 2025年9月19日（令和7年9月19日）
@@ -1056,7 +1056,7 @@
 
 
 
-開催案内 (2025-09-19)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第118回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第118回
 
 
 2025年9月19日（令和7年9月19日）
@@ -1069,7 +1069,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:25771933f1596dddbda14d9dc73ea7122b91bfa8</guid><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第117回
+開催案内</description><guid isPermaLink="false">urn:newsitem:25771933f1596dddbda14d9dc73ea7122b91bfa8</guid><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2025-09-04】第117回
 
 
 2025年9月4日（令和7年9月4日）
@@ -1082,7 +1082,7 @@
 
 
 
-開催案内 (2025-09-04)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第117回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第117回
 
 
 2025年9月4日（令和7年9月4日）
@@ -1095,7 +1095,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:4e8773d7217bd166936eb6d5dcb60303965974a7</guid><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第116回
+開催案内</description><guid isPermaLink="false">urn:newsitem:4e8773d7217bd166936eb6d5dcb60303965974a7</guid><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2025-07-04】第116回
 
 
 2025年7月4日（令和7年7月4日）
@@ -1111,7 +1111,7 @@
 
 
 
-開催案内 (2025-07-04)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第116回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第116回
 
 
 2025年7月4日（令和7年7月4日）
@@ -1127,7 +1127,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:fbce273a1d373bb3b0dee13b609498d808719b15</guid><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第115回
+開催案内</description><guid isPermaLink="false">urn:newsitem:fbce273a1d373bb3b0dee13b609498d808719b15</guid><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2025-02-26】第115回
 
 
 2025年2月26日（令和7年2月26日）
@@ -1139,7 +1139,7 @@
 
 
 
-開催案内 (2025-02-26)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第115回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第115回
 
 
 2025年2月26日（令和7年2月26日）
@@ -1151,7 +1151,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:a941a3d93866c594ecb8560aa6d4f7239e31f1bf</guid><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】－
+開催案内</description><guid isPermaLink="false">urn:newsitem:a941a3d93866c594ecb8560aa6d4f7239e31f1bf</guid><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2024-12-25】－
 
 
 2024年12月25日（令和6年12月25日）
@@ -1161,7 +1161,7 @@
 資料
 
 
-－ (2024-12-25)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>－
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>－
 
 
 2024年12月25日（令和6年12月25日）
@@ -1171,7 +1171,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:b0eb83926382dd2e1a1a88dbd18544af83e5614b</guid><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第114回
+－</description><guid isPermaLink="false">urn:newsitem:b0eb83926382dd2e1a1a88dbd18544af83e5614b</guid><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2024-12-18】第114回
 
 
 2024年12月18日（令和6年12月18日）
@@ -1186,7 +1186,7 @@
 
 
 
-開催案内 (2024-12-18)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第114回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第114回
 
 
 2024年12月18日（令和6年12月18日）
@@ -1201,7 +1201,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:82dc3c39bcda9caeedd1e316aeebaa989d7244a7</guid><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第113回
+開催案内</description><guid isPermaLink="false">urn:newsitem:82dc3c39bcda9caeedd1e316aeebaa989d7244a7</guid><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2024-11-28】第113回
 
 
 2024年11月28日（令和6年11月28日）
@@ -1218,7 +1218,7 @@
 
 
 
-開催案内 (2024-11-28)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第113回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第113回
 
 
 2024年11月28日（令和6年11月28日）
@@ -1235,7 +1235,7 @@
 
 
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:433cc43b365eebc2b65179891fcc16b397c7ea8e</guid><pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第112回
+開催案内</description><guid isPermaLink="false">urn:newsitem:433cc43b365eebc2b65179891fcc16b397c7ea8e</guid><pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2024-11-15】第112回
 
 
 2024年11月15日（令和6年11月15日）
@@ -1249,7 +1249,7 @@
 
 
 
-開催案内 (2024-11-15)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第112回
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第112回
 
 
 2024年11月15日（令和6年11月15日）
