@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 17 Oct 2025 11:19:02 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 17 Oct 2025 12:49:36 +0000</lastBuildDate><item><title>【社会保障審議会（介護保険部会）】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護給付費分科会）】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -43,27 +63,7 @@
 
 
 開催案内NEW
-10月15日</description><guid isPermaLink="false">urn:newsitem:33d01480a2e25e784a9e10b823e55fe48c91d2d5</guid><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護給付費分科会）】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会(医療部会)】回数
+10月15日</description><guid isPermaLink="false">urn:newsitem:33d01480a2e25e784a9e10b823e55fe48c91d2d5</guid><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
