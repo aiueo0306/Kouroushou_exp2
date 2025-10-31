@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 30 Oct 2025 23:21:23 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 31 Oct 2025 01:52:39 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -19,41 +19,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護保険部会）】【2025-10-27】第127回
-
-
-2025年10月27日（令和7年10月27日）
-
-	介護人材確保と職場環境改善・生産性向上、経営改善支援等
-	地域包括ケアシステムの深化（相談支援の在り方）
-	持続可能性の確保
-	その他
-
-
-－
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第127回
-
-
-2025年10月27日（令和7年10月27日）
-
-	介護人材確保と職場環境改善・生産性向上、経営改善支援等
-	地域包括ケアシステムの深化（相談支援の在り方）
-	持続可能性の確保
-	その他
-
-
-－
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">urn:newsitem:0bd52e0cbe6d23be450224c250ae7d425b513dae</guid><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -73,30 +39,4 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会(医療部会)】【2025-10-27】第120回
-
-
-2025年10月27日（令和7年10月27日）
-○医療機関の業務効率化・職場環境改善の推進に関する論点について
-○医療法人の経営状況について
-○令和８年度診療報酬改定の基本方針について
-－
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第120回
-
-
-2025年10月27日（令和7年10月27日）
-○医療機関の業務効率化・職場環境改善の推進に関する論点について
-○医療法人の経営状況について
-○令和８年度診療報酬改定の基本方針について
-－
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">urn:newsitem:3496b3b44361e4e8f0c1be1d8f52935076f82909</guid><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item></channel></rss>
